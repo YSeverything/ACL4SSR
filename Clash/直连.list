@@ -1,0 +1,34 @@
+# 标准子域名匹配（DOMAIN-SUFFIX）
+DOMAIN-SUFFIX,3dmomo.com
+DOMAIN-SUFFIX,wetab.link
+DOMAIN-SUFFIX,animcraft.com
+DOMAIN-SUFFIX,ipshu.com
+DOMAIN-SUFFIX,yjwujian.cn
+DOMAIN-SUFFIX,baidu.com    <-- 确保 baidu.com 及其子域名直连
+DOMAIN-SUFFIX,qq.com       <-- 确保 qq.com 及其子域名直连
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,yaoguaiw.com
+DOMAIN-SUFFIX,marist.edu
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,apexnodes.xyz
+DOMAIN-SUFFIX,freecloud.ltd
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,velrix.net
+
+# 精确域名匹配（DOMAIN）
+# DOMAIN,nezha.everything.nyc.mn
+DOMAIN,idc.yizong.de
+DOMAIN,sv.594880.xyz
+DOMAIN,cloud.i8.al
+DOMAIN,www.fab.com
+DOMAIN,www.free-vps.net
+DOMAIN,www.cgjoy.com
+DOMAIN,dash.mc-servers.tech
+DOMAIN,allnighthosting.cloud
+DOMAIN,xiaoya.dnsorg.us.kg
+DOMAIN,www.epicgames.com
+DOMAIN,xui2.kzds.nyc.mn
+DOMAIN,hyper-hub.nl
+DOMAIN,www.hidoha.net
+DOMAIN,playfast.org
+DOMAIN,icmp9.com
